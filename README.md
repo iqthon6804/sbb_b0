@@ -31,7 +31,7 @@
 - احصل على الفارات يدويا عبر [الضغط هنا](#الفارات).
 - اصنع حساب على منصه هيروكو [اضغط هنا](dashboard.heroku.com)
 - الان اضغط على الزر بالاسفل للتنصيب
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/thejmthon/jmthon))
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/iqthon6804/jmthon))
 
 ------
 
